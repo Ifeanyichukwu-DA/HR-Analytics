@@ -30,4 +30,7 @@ The HR dataset is in an Excel format and was loaded into power query on Power BI
 
 ## Data Modeling
 There are 15 tables in the dataset, although I added a calculated calendar for attrition. This was done to ease time intelligence calculations. Therefore, in total, there are 16 tables, 15 dimension tables, and one fact table (employee_data). All the tables were related since they have a matching column in the fact table to produce a one-to-many relationship and form a star schema.
-![](Data Model.jpg)
+***
+![](Data_Model.jpg)
+
+## Visualization
