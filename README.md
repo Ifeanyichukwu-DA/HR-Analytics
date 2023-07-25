@@ -26,7 +26,7 @@ This fictional dataset was gotten from **[Kaggle](https://www.kaggle.com/dataset
 The HR dataset is in an Excel format and was loaded into power query on Power BI for cleaning. Firstly, I renamed the tables using "Dim" as the prefix for dimension tables and "_data" as the suffix for fact table(s). The following transformations were performed on the data;
 * Corrected data type for date columns
 * Replaced empty cells with **NA**
-* Renamed some column headers
+* Renamed some column headers.
 
 ## Data Modeling
 There are 15 tables in the dataset, although I added a calculated calendar. This was done to ease time intelligence calculations. Therefore, in total, there are 16 tables, 15 dimension tables, and one fact table (employee_data). All the tables were related since they have a matching column in the fact table to produce a one-to-many relationship and form a star schema.
