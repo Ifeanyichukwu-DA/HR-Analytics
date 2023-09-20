@@ -50,7 +50,7 @@ Click [here](https://app.powerbi.com/view?r=eyJrIjoiMzJkN2JhYTctZDU4My00N2U2LWIx
 Features:
 - There are page navigators on the **Side Bar**, when clicked, redirects to the appropriate page.
 - The **Clear Slicers Button** at the top right corner, removes slicer filters that have been applied to the page.
-- The **Arrow Button** on the attrition page , displays ratings and other important information.
+- The **Arrow Button** on the attrition page, displays ratings and other important information.
 
 Key Notes:
 - **_Attrition_** is the departure of employees from the organization for any reason (voluntary or involuntary), including resignation, termination, death, or retirement..
@@ -62,9 +62,9 @@ Key Notes:
 
 ### Home
 - The number of hires or employees in the organization is 1470, while 237 employees left the organization and 1233 employees are currently retained.
-- Majority of the workfoce are full time workers (82.11%) while the remaining 17.89% are contractors.
+- The majority of the workforce are full-time workers (82.11%) while the remaining 17.89% are contractors.
 - The department with the highest number of hires is R & D, followed by Sales and HR.
-- The organization pay an average salary of 6.5K (6,500), although average salary had decreased over time.
+- The organization pays an average salary of 6.5K (6,500), although the average salary has decreased over time.
 
 ### Demographics
 ![](Demographic.jpg)
@@ -79,7 +79,7 @@ Key Notes:
 
 - Male employees were more likely to leave the organization than their female colleagues. 
 - Employees between the age of 25–34 had the highest attrition.
-- The least earning employees have the highest attrition.
+- The least-earning employees have the highest attrition.
 
 ### Retention 
 ![](Retention.jpg)
