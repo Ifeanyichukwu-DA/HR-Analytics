@@ -35,7 +35,7 @@ There are 15 tables in the dataset, although I added a calculated calendar. This
 
 ![](Data_Model.jpg)
 
-## Visualization
+## Data Visualization
 The report comprises five pages:
 1. Home
 2. Demographics
